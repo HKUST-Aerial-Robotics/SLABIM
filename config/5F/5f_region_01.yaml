@@ -1,0 +1,36 @@
+seq: "5f_office_01"
+split: "trajectory"
+hashtable: "direct"
+interval: 30
+valid_len: 2
+next_start_len: 2
+voxel: 0.01
+pcd2d:
+  max_height: 1.9
+  min_height: 0.2
+  scale: 60
+  dilate_kernel: 2
+kfmap3d:
+  interval: 0.5
+lineseg:
+  method: "submap_image"
+
+desc_name: "TriDescV2"
+max_side_length: 30
+length_res: 0.5
+angle_res: 3
+
+hough: "V2"
+xy_res: 0.5
+yaw_res: 1
+top_l: 10000
+top_k: 5000
+top_j: 300
+topj_metric: "votes_num"
+nms_dist: 1.5
+
+# Verification parameters
+grid_size: 0.25
+sigma: 1.2
+sdf_dist: 0.5
+free_erode_width: 1
