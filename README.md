@@ -4,10 +4,10 @@
 
 <div align="center">
 <!-- <a href="https://ieeexplore.ieee.org/document/10518010"><img src="https://img.shields.io/badge/Paper-ICRA-blue"/></a>
-<a href="https://arxiv.org/abs/2308.11573"><img src="https://img.shields.io/badge/ArXiv-2308.11573-004088.svg"/></a>
-<a href="https://youtu.be/4OeZ9bVsxcY?si=180BzZ-lxak1iq69">
+<a href="https://arxiv.org/abs/2308.11573"><img src="https://img.shields.io/badge/ArXiv-2308.11573-004088.svg"/></a> -->
+<a href="https://www.youtube.com/watch?v=7NckgY15ABQ">
 <img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/>
-</a> -->
+</a>
 <a ><img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" /></a>
 <a href="https://github.com/HKUST-Aerial-Robotics/G3Reg/issues">
 <img alt="Issues" src="https://img.shields.io/github/issues/HKUST-Aerial-Robotics/SLABIM?color=0088ff"/>
