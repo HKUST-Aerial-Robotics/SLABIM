@@ -19,6 +19,7 @@
 > Submitted to 2025 IEEE International Conference on Robotics & Automation
 
 ### News
+* **`17 Feb 2025`:** Download Links Updated.
 * **`15 Sep 2024`:** We submit our paper to [IEEE ICRA](https://2025.ieee-icra.org/).
 
 
@@ -33,7 +34,11 @@ featuring various types of offices, classrooms, lounges, and corridors.
 + **Multi-session & Multi-sensor Data**: We collect 12 sessions across different floors and regions. These sessions encompass various indoor scenarios.
 + **Dataset Validation**: To demonstrate the practicality of SLABIM, we test three different tasks: (1) LiDAR-to-BIM registration, and (2) Robot pose tracking on BIM and (3) Semantic mapping. 
 ## Download
-**Download link will come soon**
+**Please click these below links to download:**
+
++ [**Calibration Files**](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hhuangce_connect_ust_hk/EsRF4KSE2QNJhNe5pkGnlhsBjF2A4Y0_t6DhoPypFN3TnA)
++ [**BIM**](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hhuangce_connect_ust_hk/EsFggIKoN01Hk6ZIKSrCLa4BuvIo4ut4I_Da9WmEgvxMqQ)
++ [**Sensor Data**](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hhuangce_connect_ust_hk/Eu9IRQfbPJpGnTtmjgkrrigBopCUTe2gBJDAp8m5vqZZRw)
 <!-- Please visit [SLABIM_Google_Drive]() to check and download data. -->
 ## Dataset Structure
 1. ```BIM/``` contains CAD files (.dxf) and mesh files (.ply) exported from the original BIM models, organized by storey and semantic tags. Users can sample
