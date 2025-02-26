@@ -3,23 +3,25 @@
 ## <div align = "center">A SLAM-BIM Coupled Dataset in HKUST Main Building</div>
 
 <div align="center">
+<a href="https://arxiv.org/abs/2502.16856"><img src="https://img.shields.io/badge/Paper-IEEE ICRA-004088.svg"/></a>
 <!-- <a href="https://ieeexplore.ieee.org/document/10518010"><img src="https://img.shields.io/badge/Paper-ICRA-blue"/></a>
 <a href="https://arxiv.org/abs/2308.11573"><img src="https://img.shields.io/badge/ArXiv-2308.11573-004088.svg"/></a> -->
 <a href="https://www.youtube.com/watch?v=7NckgY15ABQ">
 <img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/>
 </a>
 <a ><img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" /></a>
-<a href="https://github.com/HKUST-Aerial-Robotics/G3Reg/issues">
+<a href="https://github.com/HKUST-Aerial-Robotics/SLABIM/issues">
 <img alt="Issues" src="https://img.shields.io/github/issues/HKUST-Aerial-Robotics/SLABIM?color=0088ff"/>
 </a>
 </div>
 
-> Haoming Huang, [Zhijian Qiao](https://qiaozhijian.github.io/), Zehuan Yu, Chuhao Liu, [Shaojie Shen](https://uav.hkust.edu.hk/group/) and [Huan Yin](https://huanyin94.github.io/)
+> Haoming Huang, [Zhijian Qiao](https://qiaozhijian.github.io/), Zehuan Yu, Chuhao Liu, [Shaojie Shen](https://uav.hkust.edu.hk/group/), Fumin Zhang and [Huan Yin](https://huanyin94.github.io/)
 >
 > Submitted to 2025 IEEE International Conference on Robotics & Automation
 
 ### News
 * **`17 Feb 2025`:** Download Links Updated.
+* **`28 Jan 2025`:** Accepted by ICRA 2025.
 * **`15 Sep 2024`:** We submit our paper to [IEEE ICRA](https://2025.ieee-icra.org/).
 
 ## Download
