@@ -29,7 +29,7 @@
 
 + [**Calibration Files**](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hhuangce_connect_ust_hk/EsRF4KSE2QNJhNe5pkGnlhsBjF2A4Y0_t6DhoPypFN3TnA)
 + [**BIM**](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hhuangce_connect_ust_hk/EsFggIKoN01Hk6ZIKSrCLa4BuvIo4ut4I_Da9WmEgvxMqQ)
-+ [**Sensor Data**](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hhuangce_connect_ust_hk/Eu9IRQfbPJpGnTtmjgkrrigBopCUTe2gBJDAp8m5vqZZRw)
++ [**Sensor Data**](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hhuangce_connect_ust_hk/EpYn_ugFhBJHiOGDvLhr0bMBGawfWY4jGleEbCKpJZEbQA?e=dvB37k)
 ## Abstract
 <div align="center"><h4>SLABIM is an open-sourced SLAM dataset that couples with BIM (Building Information Modeling).</h4></div>
 
