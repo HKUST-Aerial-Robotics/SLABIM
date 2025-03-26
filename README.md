@@ -20,6 +20,7 @@
 > Submitted to 2025 IEEE International Conference on Robotics & Automation
 
 ### News
+* **`23 Mar 2025`:** The LiDAR-to-BIM registration is released at [LiDAR2BIM-Registration](https://github.com/HKUST-Aerial-Robotics/LiDAR2BIM-Registration). Welcome to try it!
 * **`17 Feb 2025`:** Download Links Updated.
 * **`28 Jan 2025`:** Accepted by ICRA 2025.
 * **`15 Sep 2024`:** We submit our paper to [IEEE ICRA](https://2025.ieee-icra.org/).
